@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "mini_geocode"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = "Small geocoding plugin based on google geocode api"
+    gem.description = "Small geocoding plugin based on google geocode api, no dependencies required."
     gem.email = "tom@tnux.net"
     gem.homepage = "http://github.com/tompesman/mini_geocode"
     gem.authors = ["tompesman"]
