@@ -1,5 +1,4 @@
-MiniGeocode
-===========
+= MiniGeocode
 
 Very easy to use geocode plugin.
 
